@@ -1,1 +1,1 @@
-{'ver1':'29', 'ver2':'30', 'ver3':'\n•[اصلاح]مشكله ارسال الموقع \n•[اصلاح]زر موقعي في الخريطة \n•[اصلاح]انهيار عند فتح التطبيق في بعض الاجهزة \n•[اصلاح]اصلاح الرسائل المجدولة \n•[مزيد]إصلاحات وتحسينات أخرى \n\n' , 'dli':'https://t.me/whatsapp_abu3rab'}
+{'ver1':'30', 'ver2':'20', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://www.abu2rab.com/2024/02/waplue-ali.html'}
