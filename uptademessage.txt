@@ -1,5 +1,5 @@
-{ "Gold": { "update_code": "6", "reminder_time": "3", "update_version": "v31.40", "com.WhatsApp2Plus": "https://www.abu2rab.com/2024/02/wa2gold-ali.html", "com.WhatsApp3Plus": "https://www.abu2rab.com/2024/02/wa2gold-ali.html", "update_message": " 
-<p>Update Vتحديث « 35.0</p>
+{ "Gold": { "update_code": "7", "reminder_time": "3", "update_version": "v31.40", "com.WhatsApp2Plus": "https://www.abu2rab.com/2024/02/wa2gold-ali.html", "com.WhatsApp3Plus": "https://www.abu2rab.com/2024/02/wa2gold-ali.html", "update_message": " 
+<p>Update Vتحديث « 37.0</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
 <li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
