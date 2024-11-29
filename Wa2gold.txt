@@ -1,1 +1,1 @@
-{'ver1':'31', 'ver2':'40', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بالشكل الجيد\n' , 'dli':'https://www.abu2rab.com/2024/02/wa2gold-ali.html'}
+{'ver1':'37', 'ver2':'', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بالشكل الجيد\n' , 'dli':'https://www.abu2rab.com/2024/02/wa2gold-ali.html'}
